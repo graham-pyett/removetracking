@@ -4,5 +4,5 @@ const url = window.location.href;
 if (url.indexOf('?') !== -1) {
   const cleanURL = url.split('?')[0];
 
-  window.location.href = cleanURL;
+  window.location.href = cleanURL; 
 }
