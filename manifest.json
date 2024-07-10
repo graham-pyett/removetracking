@@ -4,7 +4,7 @@
   "description": "Get rid of trackers from URLs",
   "version": "1.0",
   "action": {
-    "default_popup": "tracker.html",
+    "default_popup": "popup.html",
     "default_icon": "icons/favicon-32x32.png"
   },
   "content_scripts": [
